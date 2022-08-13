@@ -1,4 +1,4 @@
-# About the app
+# About this project
 This is a clone that looks like google, but isn't, the searches are not that accurate yet, with time, they'll get better.
 To see what it looks like, open [https://google-clone-richgod93.vercel.app/](https://google-clone-richgod93.vercel.app/).
 
